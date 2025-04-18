@@ -1,0 +1,16 @@
+UNDERSTANDING NEURAL SIGNAL PROCESSING IN BRAIN-COMPUTER INTERFACES  
+Léa Dubois, Institut National de Recherche en Neurosciences, Paris  
+
+ABSTRACT:  
+Brain-Computer Interfaces (BCIs) allow for direct communication between  
+the human brain and external devices. These systems rely on the precise  
+interpretation of neural signals, which can be noisy and difficult to decode.  
+In this paper, we present a novel method based on wavelet transformation and  
+support vector machines for improved signal classification.
+
+Our experimental results show a 15% improvement in accuracy compared to  
+traditional methods. We believe this advancement could facilitate real-time  
+control in medical-grade BCIs and prosthetic limbs.
+
+INTRODUCTION  
+BCIs have existed for decades but are only now becoming practical due to advances in neural signal...

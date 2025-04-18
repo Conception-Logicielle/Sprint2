@@ -1,0 +1,27 @@
+Nom : Article1-Monocolonne.txt
+Titre : The Role of AI in Modern Medicine
+Résumé :
+Artificial Intelligence (AI) is revolutionizing healthcare through automation, diagnostics, and patient monitoring. This paper reviews the latest advancements in machine learning applied to radiology and genomics. It also evaluates the ethical implications of AI-driven diagnoses.
+Nombre total de lignes : 19
+Nombre de lignes du résumé : 1
+Temps d’analyse : 11 ms
+=====================
+
+Nom : Article2-Bicolonne.txt
+Titre : Deep Learning Models for Climate Forecasting        The Impact of Ocean Currents on Temperature
+Résumé :
+Deep learning networks have shown promising results in modeling climate trends. In this study, we explore Long Short-Term Memory (LSTM) networks applied to oceanic and atmospheric data to improve the accuracy of temperature forecasting.
+Nombre total de lignes : 17
+Nombre de lignes du résumé : 1
+Temps d’analyse : 4 ms
+=====================
+
+Nom : Article3-CassePieds.txt
+Titre : UNDERSTANDING NEURAL SIGNAL PROCESSING IN BRAIN-COMPUTER INTERFACES
+Résumé :
+
+Nombre total de lignes : 16
+Nombre de lignes du résumé : 1
+Temps d’analyse : 4 ms
+=====================
+

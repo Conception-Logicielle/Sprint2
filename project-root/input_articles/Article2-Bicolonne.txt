@@ -1,0 +1,17 @@
+Deep Learning Models for Climate Forecasting        The Impact of Ocean Currents on Temperature  
+Alex Chen, Maria López                              Department of Earth Sciences, Stanford University  
+
+Abstract  
+Deep learning networks have shown promising                                results in modeling climate  
+trends. In this study, we explore Long Short-Term                          Memory (LSTM) networks applied  
+to oceanic and atmospheric data to improve                                the accuracy of temperature  
+forecasting.
+
+We present a dataset compiled from NOAA sources                            and train multiple network  
+architectures. Our results indicate that data                             resolution has a strong impact  
+on prediction quality.
+
+1. Introduction                                                             2. Background  
+The Earth's climate is a complex system...                                 Ocean currents influence...
+
+Keywords: Deep learning, Climate models, LSTM

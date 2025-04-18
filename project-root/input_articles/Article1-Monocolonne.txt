@@ -1,0 +1,19 @@
+The Role of AI in Modern Medicine  
+John Smith, PhD — Department of Medical Engineering, MIT  
+j.smith@mit.edu  
+
+Abstract  
+Artificial Intelligence (AI) is revolutionizing healthcare through automation, diagnostics, and patient monitoring.  
+This paper reviews the latest advancements in machine learning applied to radiology and genomics. It also evaluates  
+the ethical implications of AI-driven diagnoses.
+
+1. Introduction  
+Over the last decade, AI has increasingly found applications in clinical settings...
+
+2. Machine Learning in Imaging  
+Radiology is one of the first domains to benefit from deep learning algorithms...
+
+3. Ethical Concerns  
+The use of AI raises questions regarding transparency and liability...
+
+Keywords: Artificial Intelligence, Healthcare, Deep Learning
